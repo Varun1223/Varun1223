@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varun1223
+- 👋 Hi, I’m Varun R
 - 👀 I’m interested in web page development.
 - 🌱 I’m currently learning java and JavaScript.
 - 💞️ I’m looking to collaborate on wonderful live projects on any platform.
